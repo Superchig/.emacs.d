@@ -1,0 +1,40 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/chiggie/Desktop/" . "computer/")
+ ("/home/chiggie/" . "Desktop/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/chiggie/Desktop/computer/sicp/"
+ "/home/chiggie/Desktop/computer/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/chiggie/Desktop/computer/sicp/" (21829 4890 398975 790000) "cond.scm" "./" "../" "cond.scm~")
+
+ ("/home/chiggie/Desktop/computer/" (21824 9497 660870 761000) "python/" "java-test/" "clang/" "ruby/" "mystuff/" "./" "intelliJ/" "test/" "ruby-install/" "../" "CodeBlocks_Workspace/" "learn/" "C++/" "lolcode/")
+
+ ("/home/" (21795 7574 252099 858000) "chiggie/" "./" "../")
+
+ ("/home/chiggie/Desktop/" (21799 6119 671266 36000) "computer/" "./" "../")
+
+ ("/home/chiggie/" (21828 1139 575456 343000) ".ICEauthority" "computer/" ".gnome/" ".zcompdump" "Downloads/" ".gksu.lock" ".android/" ".dotfiles/" "guake-colors-solarized/" ".tmux.conf~" ".Xauthority" "Documents/" "Templates/" ".codeintel/" ".vboxclient-seamless.pid" ".cinnamon/" ".swo" ".emacs.d/" ".dmrc" ".zshrc" "~" ".gnupg/" ".thunderbird/" ".java/" ".zlogin" ".dbus/" "Music/" ".zsh_history" ".emacs~" ".linuxmint/" ".oh-my-zsh/" ".vim/" ".zshenv~" ".cache/" "mystuff/" ".gconf/" ".zshrc.pre-oh-my-zsh" ".pki/" ".zprofile~" ".zshrc~" ".zshenv" ".IdeaIC14/" "./" ".codeblocks/" ".vboxclient-draganddrop.pid" ".gem/" ".bzr.log" "IdeaProjects/" ".bash_profile" "tmp/" ".gitconfig" ".pip/" ".config/" "Desktop/" ".rubies/" "src/" "tags" ".vimrc" "Pictures/" ".icons/" "Public/" ".vimrc~" ".bashrc" ".vboxclient-display.pid" ".emacs" ".profile~" ".themes/" ".eclipse/" "ycm_build/" "../" "org/" ".gnome2_private/" "Videos/" "ycm_temp/" ".local/" ".xsession-errors" ".adobe/" ".lesshst" ".mkshrc" ".profile" ".zcompdump-chig-VirtualBox-mint-5.0.2" ".macromedia/" ".bashrc~" ".gnome2/" ".fonts/" ".bash_history" ".zprofile" ".rvm/" ".bash_logout" ".ipython/" ".irb-history" ".swp" ".tmux.conf" ".viminfo" ".rbx/" ".mozilla/" ".vboxclient-clipboard.pid" ".zsh-update")
+
+ ("/home/chiggie/org/" (21821 21891 48762 201000) "#OrgTutorial.org#" "./" "OrgTutorial.org" "OrgTutorial.org~" "../" "notes/")
+
+ ("/home/chiggie/org/notes/" (21822 54821 187608 102000) "./" "../" "school/" "mit/")
+
+ ("/home/chiggie/org/notes/mit/" (21828 1402 120113 815000) ".#600SC-2.org" "ch3_programs_and_data.org~" "ch3_programs_and_data.org" "6001SC.org" "./" "../" "6001SC.org~" "600SC-2.org")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
